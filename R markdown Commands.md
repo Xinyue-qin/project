@@ -41,7 +41,7 @@ summary(mtcars)
 # warning/message: 隐藏警告/消息
 # fig.width, fig.height: 图形尺寸
 ```
-```
+
 
 #### **内联代码**
 ```markdown
@@ -81,7 +81,7 @@ summary(mtcars)
 ```{r}
 knitr::kable(mtcars[1:5, ], caption = "示例表格")
 ```
-```
+
 
 #### **插入图形**
 ```markdown
