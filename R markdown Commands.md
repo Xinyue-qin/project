@@ -88,7 +88,7 @@ knitr::kable(mtcars[1:5, ], caption = "示例表格")
 ```{r plot_example}
 plot(pressure)
 ```
-```
+
 
 ---
 
@@ -103,7 +103,6 @@ plot(pressure)
   for (i in 1:3) {
     cat("## 章节", i, "\n\n")
   }
-  ```
   ```
 
 ---
@@ -149,7 +148,7 @@ long_running_code()
   ```{r error=TRUE}
   problematic_code()
   ```
-  ```
+
 
 ---
 
