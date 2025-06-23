@@ -133,7 +133,6 @@ bibliography: references.bib
 # 结果缓存，避免重复计算
 long_running_code()
 ```
-```
 
 ---
 
